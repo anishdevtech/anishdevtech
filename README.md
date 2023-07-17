@@ -29,11 +29,12 @@ I'm a full stack developer Know many Languages Given below
 
 👯‍♀️ I use a wrapper names  discord.js for my discord bots 
 
-🤔 I'm about 14
+🤔 I am  7 + 7 + (7 ÷ 7) year old 
+
 
 💬 I don't do collaborate in waste stuff
 
-⚡️ Fun fact: I love 🎸 and 🥁
+🥄 Don't expect spoon feeding from me
 
 
 ## License
