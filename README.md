@@ -28,8 +28,8 @@
 ```ts
 const anish = {
   age:        18,
-  location:   "Ludhiana, Punjab, India",
-  education:  "Incoming CS @ Chandigarh University",
+  location:   "Chandigarh, India",
+  education:  "Chandigarh University",
   started:    "Grade 8 — first code written on a phone",
   philosophy: "Build from scratch first. Use abstractions later."
 };
